@@ -214,5 +214,5 @@ client.on('message' , message =>{
     
 })
 
-
-client.login('NzcwOTQwNjcxOTA0NTc5NjA0.X5k4cw.3MGknZo_QrTfAJuozqbTRaJJrR0');
+//add token here
+client.login('[meh]');
